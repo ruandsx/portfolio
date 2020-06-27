@@ -5,7 +5,7 @@ import { AiOutlineGithub, AiFillLinkedin, AiFillMail } from 'react-icons/ai';
 import { FaNpm } from 'react-icons/fa';
 
 // styles
-import { Container, SideNav, NavLink } from './styles';
+import { Container, SideNav, NavLink, IconLink } from './styles';
 
 const Navbar = () => {
   const { url } = useRouteMatch();
@@ -24,24 +24,48 @@ const Navbar = () => {
       </SideNav>
       <SideNav>
         <li>
-          <a href="https://github.com/ruandsx">
+          <IconLink
+            hoverColor="#000"
+            target="_blank"
+            rel="noopener noreferrer"
+            title="GitHub"
+            href="https://github.com/ruandsx"
+          >
             <AiOutlineGithub />
-          </a>
+          </IconLink>
         </li>
         <li>
-          <a href="https://www.linkedin.com/in/ruan-xavier-8bab6a169/">
+          <IconLink
+            hoverColor="#000"
+            target="_blank"
+            rel="noopener noreferrer"
+            title="LinkedIn"
+            href="https://www.linkedin.com/in/ruan-xavier-8bab6a169/"
+          >
             <AiFillLinkedin />
-          </a>
+          </IconLink>
         </li>
         <li>
-          <a href="https://www.npmjs.com/~ruanxavier">
+          <IconLink
+            hoverColor="#000"
+            target="_blank"
+            rel="noopener noreferrer"
+            title="NPM"
+            href="https://www.npmjs.com/~ruanxavier"
+          >
             <FaNpm />
-          </a>
+          </IconLink>
         </li>
         <li>
-          <a href="mailto:ruandsxavier@gmail.com">
+          <IconLink
+            hoverColor="#000"
+            target="_blank"
+            rel="noopener noreferrer"
+            title="Send Mail"
+            href="mailto:ruandsxavier@gmail.com"
+          >
             <AiFillMail />
-          </a>
+          </IconLink>
         </li>
       </SideNav>
     </Container>

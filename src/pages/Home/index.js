@@ -15,7 +15,7 @@ const Home = () => {
   return (
     <Container>
       <Banner>
-        <h1> Ruan Xavier - FullStack Developer </h1>
+        <h1> Ruan Xavier - Full Stack Developer </h1>
         <h2> Web and Mobile development </h2>
       </Banner>
       <Navbar />

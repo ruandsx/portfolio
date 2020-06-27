@@ -17,22 +17,42 @@ const Footer = () => {
       </Copyright>
       <SideNav>
         <li>
-          <a href="https://github.com/ruandsx">
+          <a
+            target="_blank"
+            rel="noopener noreferrer"
+            title="GitHub"
+            href="https://github.com/ruandsx"
+          >
             <AiOutlineGithub />
           </a>
         </li>
         <li>
-          <a href="https://www.linkedin.com/in/ruan-xavier-8bab6a169/">
+          <a
+            target="_blank"
+            rel="noopener noreferrer"
+            title="LinkedIn"
+            href="https://www.linkedin.com/in/ruan-xavier-8bab6a169/"
+          >
             <AiFillLinkedin />
           </a>
         </li>
         <li>
-          <a href="https://www.npmjs.com/~ruanxavier">
+          <a
+            target="_blank"
+            rel="noopener noreferrer"
+            title="NPM"
+            href="https://www.npmjs.com/~ruanxavier"
+          >
             <FaNpm />
           </a>
         </li>
         <li>
-          <a href="mailto:ruandsxavier@gmail.com">
+          <a
+            target="_blank"
+            rel="noopener noreferrer"
+            title="Send Mail"
+            href="mailto:ruandsxavier@gmail.com"
+          >
             <AiFillMail />
           </a>
         </li>

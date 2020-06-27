@@ -35,7 +35,8 @@ export const SideNav = styled.ul`
       transition: color 0.2s ease-in-out;
 
       &:hover {
-        color: rgba(255, 255, 255, 1);
+        color: ${props =>
+          props.hoverColor ? props.hoverColor : 'rgba(255, 255, 255, 1)'};
       }
     }
 
@@ -44,6 +45,28 @@ export const SideNav = styled.ul`
     display: block;
 
     text-transform: uppercase;
+  }
+
+  svg {
+    font-size: 30px;
+  }
+`;
+
+export const IconLink = styled.a`
+  margin: 0 10px;
+
+  font-size: 14px;
+  font-weight: 400;
+  text-decoration: none;
+  color: rgba(255, 255, 255, 0.8);
+
+  transition: color 0.4s ease-in-out !important;
+
+  &:hover {
+    color: ${props =>
+      props.hoverColor
+        ? `${props.hoverColor}!important`
+        : 'rgba(255, 255, 255, 1)'};
   }
 
   svg {
