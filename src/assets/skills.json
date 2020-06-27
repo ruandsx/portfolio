@@ -1,0 +1,142 @@
+[
+  {
+    "name": "Javascript",
+    "href": "#",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png",
+    "tag": "language",
+    "description": "",
+    "time": "3 - 4 years"
+  },
+  {
+    "name": "PHP",
+    "href": "#",
+    "image": "https://kinsta.com/pt/wp-content/uploads/sites/3/2019/05/o-que-php-1024x512.png",
+    "tag": "language",
+    "description": "",
+    "time": "3 - 4 years"
+  },
+  {
+    "name": "Node.js",
+    "href": "#",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png",
+    "tag": "language",
+    "description": "",
+    "time": "1 - 2 years"
+  },
+  {
+    "name": "ReactJS",
+    "href": "#",
+    "image": "https://blog.fcamara.com.br/wp-content/uploads/2019/03/1_y6C4nSvy2Woe0m7bWEn4BA-1024x538.png",
+    "tag": "framework",
+    "description": "",
+    "time": "1 - 2 years"
+  },
+  {
+    "name": "React Native",
+    "href": "#",
+    "image": "https://blog.rocketseat.com.br/content/images/2018/12/5-erros-comuns-de-um-desenvolvedor-react-react-native.png",
+    "tag": "framework",
+    "description": "",
+    "time": "1 - 2 years"
+  },
+  {
+    "name": "Typescript",
+    "href": "#",
+    "image": "https://www.alura.com.br/assets/api/cursos/512/typescript-parte1.png",
+    "tag": "language",
+    "description": "",
+    "time": "1 year"
+  },
+  {
+    "name": "Java",
+    "href": "#",
+    "image": "https://s2.glbimg.com/XcY3OtMDKoBNBrwQ0Fv7mNj0pUw=/1080x608/top/smart/s.glbimg.com/po/tt2/f/original/2016/03/02/java-logo1.jpg",
+    "tag": "language",
+    "description": "",
+    "time": "1 year"
+  },
+  {
+    "name": "Laravel",
+    "href": "#",
+    "image": "https://kinsta.com/pt/wp-content/uploads/sites/3/2019/05/o-que-php-1024x512.png",
+    "tag": "framework",
+    "description": "",
+    "time": "1 year"
+  },
+  {
+    "name": "CodeIgniter",
+    "href": "#",
+    "image": "https://kinsta.com/pt/wp-content/uploads/sites/3/2019/05/o-que-php-1024x512.png",
+    "tag": "framework",
+    "description": "",
+    "time": "1 year"
+  },
+  {
+    "name": "Wordpress",
+    "href": "#",
+    "image": "https://kinsta.com/pt/wp-content/uploads/sites/3/2019/05/o-que-php-1024x512.png",
+    "tag": "framework",
+    "description": "",
+    "time": "1 year"
+  },
+  {
+    "name": "Android",
+    "href": "#",
+    "image": "https://lh3.googleusercontent.com/GTmuiIZrppouc6hhdWiocybtRx1Tpbl52eYw4l-nAqHtHd4BpSMEqe-vGv7ZFiaHhG_l4v2m5Fdhapxw9aFLf28ErztHEv5WYIz5fA",
+    "tag": "language",
+    "description": "",
+    "time": "5 months"
+  },
+  {
+    "name": "Flutter",
+    "href": "#",
+    "image": "https://uploads-ssl.webflow.com/5cb5ca7babc0511db4eedf95/5ce2fde702ef93c1e994d987_flutter.png",
+    "tag": "language",
+    "description": "",
+    "time": "1 month"
+  },
+  {
+    "name": "SQL",
+    "href": "#",
+    "image": "https://s2.glbimg.com/ounhxvtbhGrOff0BaiMIhunpEbE=/696x390/top/smart/s.glbimg.com/po/tt/f/original/2012/04/17/mysql-logos.gif",
+    "tag": "database",
+    "description": "",
+    "time": "3 - 4 years"
+  },
+  {
+    "name": "MongoDB",
+    "href": "#",
+    "image": "https://www.ambientelivre.com.br/media/k2/items/cache/e9432fccf28a953514f077b86e5e657a_L.jpg",
+    "tag": "database",
+    "description": "",
+    "time": "1 - 2 years"
+  },
+  {
+    "name": "SOLID",
+    "href": "#",
+    "image": "https://miro.medium.com/max/1024/1*DOFGaQhleVE8B77txLhM8A.jpeg",
+    "tag": "design patterns",
+    "description": ""
+  },
+  {
+    "name": "Scrum",
+    "href": "#",
+    "image": "https://artia.com/wp-content/uploads/2019/10/scrum-master-696x364.png",
+    "tag": "Framework",
+    "description": ""
+  },
+  {
+    "name": "Communication",
+    "href": "#",
+    "image": "https://i.pinimg.com/originals/fd/4e/98/fd4e98ed82858f8096a115a250b1d51f.png",
+    "tag": "soft skill",
+    "description": ""
+  },
+  {
+    "name": "Teamwork",
+    "href": "#",
+    "image": "https://image.freepik.com/free-vector/modern-teamwork-concept-with-flat-design_23-2147852841.jpg",
+    "tag": "soft skill",
+    "description": ""
+  }
+]

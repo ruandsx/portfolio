@@ -12,7 +12,7 @@ const Footer = () => {
         <p>
           Made with
           <FaHeart color="#FF0000" />
-          and ReactJS by Ruan Xavier
+          by Ruan Xavier
         </p>
       </Copyright>
       <SideNav>
