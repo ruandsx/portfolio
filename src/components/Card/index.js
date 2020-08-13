@@ -12,9 +12,9 @@ import {
   Footer,
 } from './styles';
 
-const Card = ({ size, name, href, image, tag, description, time }) => {
+const Card = ({ size, name, href, target, image, tag, description, time }) => {
   return (
-    <Container title={name} size={size} href={href}>
+    <Container title={name} size={size} target={target || ''} href={href}>
       <CardImage alt={name} src={image} />
       <CardContent>
         <Content>
