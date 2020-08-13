@@ -7,14 +7,7 @@
     "description": "",
     "time": "3 - 4 years"
   },
-  {
-    "name": "PHP",
-    "href": "#",
-    "image": "https://kinsta.com/pt/wp-content/uploads/sites/3/2019/05/o-que-php-1024x512.png",
-    "tag": "language",
-    "description": "",
-    "time": "3 - 4 years"
-  },
+
   {
     "name": "Node.js",
     "href": "#",
@@ -46,6 +39,14 @@
     "tag": "language",
     "description": "",
     "time": "1 year"
+  },
+  {
+    "name": "PHP",
+    "href": "#",
+    "image": "https://kinsta.com/pt/wp-content/uploads/sites/3/2019/05/o-que-php-1024x512.png",
+    "tag": "language",
+    "description": "",
+    "time": "3 - 4 years"
   },
   {
     "name": "Java",
