@@ -1,19 +1,17 @@
 import React from 'react';
 
 // components
+import Banner from '../../components/Banner';
 import Navbar from '../../components/Navbar';
 import Footer from '../../components/Footer';
 
 // styles
-import { Container, Banner, ContactText } from './styles';
+import { Container, ContactText } from './styles';
 
 const Contact = () => {
   return (
     <Container>
-      <Banner>
-        <h1> Ruan Xavier - Full Stack Developer </h1>
-        <h2> Web and Mobile development </h2>
-      </Banner>
+      <Banner />
       <Navbar />
       <ContactText>
         <p>I don&apos;t implemented a form or anything like that yet :( </p>

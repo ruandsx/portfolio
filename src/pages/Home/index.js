@@ -1,6 +1,7 @@
 import React from 'react';
 
 // components
+import Banner from '../../components/Banner';
 import Card from '../../components/Card';
 import Navbar from '../../components/Navbar';
 import Footer from '../../components/Footer';
@@ -9,15 +10,12 @@ import Footer from '../../components/Footer';
 import skills from '../../assets/skills.json';
 
 // styles
-import { Container, Banner, CardsArea } from './styles';
+import { Container, CardsArea } from './styles';
 
 const Home = () => {
   return (
     <Container>
-      <Banner>
-        <h1> Ruan Xavier - Full Stack Developer </h1>
-        <h2> Web and Mobile development </h2>
-      </Banner>
+      <Banner />
       <Navbar />
       <CardsArea>
         {skills.map(({ name, href, image, tag, description, time }) => (
