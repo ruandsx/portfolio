@@ -40,7 +40,7 @@ const Navbar = () => {
             target="_blank"
             rel="noopener noreferrer"
             title="LinkedIn"
-            href="https://www.linkedin.com/in/ruan-xavier-8bab6a169/"
+            href="https://www.linkedin.com/in/ruan-xavier/"
           >
             <AiFillLinkedin />
           </IconLink>
