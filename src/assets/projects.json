@@ -24,6 +24,14 @@
     "time": "Javascript"
   },
   {
+    "name": "Master Heroes",
+    "href": "https://gifted-goldberg-668798.netlify.app/",
+    "image": "https://raw.githubusercontent.com/ruandsx/portfolio/master/src/assets/master-heroes.png",
+    "tag": "Game",
+    "description": "",
+    "time": "React"
+  },
+  {
     "name": "More Projects",
     "href": "https://github.com/ruandsx/",
     "image": "https://raw.githubusercontent.com/ruandsx/portfolio/master/src/assets/banner.jpg",
