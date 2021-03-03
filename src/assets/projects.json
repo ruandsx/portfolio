@@ -1,7 +1,7 @@
 [
   {
     "name": "GoBarber",
-    "href": "https://gobarberapp.rxsoftwares.com",
+    "href": "https://go-barber-web-app.netlify.app/",
     "image": "https://raw.githubusercontent.com/ruandsx/gobarber-web/master/assets/gobarber-web_banner.png",
     "tag": "web | mobile App",
     "description": "",
@@ -9,7 +9,7 @@
   },
   {
     "name": "Github Explorer",
-    "href": "https://5f370e1aa495e9d4684f3e90--peaceful-hopper-3f74bb.netlify.app/",
+    "href": "https://github-explorer-web-app.netlify.app",
     "image": "https://raw.githubusercontent.com/ruandsx/portfolio/master/src/assets/github-explorer.png",
     "tag": "Web application",
     "description": "",
@@ -33,7 +33,7 @@
   },
   {
     "name": "Master Heroes",
-    "href": "https://gifted-goldberg-668798.netlify.app/",
+    "href": "https://master-heroes.netlify.app/",
     "image": "https://raw.githubusercontent.com/ruandsx/portfolio/master/src/assets/master-heroes.png",
     "tag": "Game",
     "description": "",
